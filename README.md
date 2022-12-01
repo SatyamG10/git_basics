@@ -2,6 +2,8 @@
 
 This is how you use git
 
+This is the best description 
+
 ## Table of Contents
 
 1. example_file.txt
