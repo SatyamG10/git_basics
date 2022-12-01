@@ -2,6 +2,10 @@
 
 This is how you use git
 
+## Table of Contents
+
+1. example_file.txt
+
 Important steps for git workflow:
 
 1. Initialize repository with git init
